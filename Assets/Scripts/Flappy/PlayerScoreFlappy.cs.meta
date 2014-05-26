@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: ad6c636bbb7da48b19da7e1d1fac60fa
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - scoreTextMesh: {fileID: 10200000, guid: 92219956897844165a1e9ac2de9f1fa1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

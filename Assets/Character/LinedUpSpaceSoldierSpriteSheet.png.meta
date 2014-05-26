@@ -1,0 +1,670 @@
+fileFormatVersion: 2
+guid: 6bac2a0ed9bdb4a4ea3fe15ef8796d02
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: LinedUpSpaceSoldierSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 525
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 525
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 525
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 525
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 525
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 525
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 525
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 525
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 470
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 470
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 470
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 470
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 470
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 470
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 470
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 470
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 415
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 415
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 415
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 415
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 415
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 415
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 415
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 360
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 360
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 360
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 360
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 360
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 360
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 305
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: explosion
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 280
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Bullet
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 340
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 250
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 250
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 250
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 195
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 195
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 195
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 195
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 140
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 140
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 140
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 140
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 140
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 140
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 140
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 85
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 85
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 85
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 85
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 85
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 85
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 85
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 30
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 30
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 30
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 30
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 30
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 30
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LinedUpSpaceSoldierSpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 30
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: bulletLit
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 340
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
