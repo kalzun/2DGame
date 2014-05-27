@@ -53,6 +53,7 @@
      <Compile Include="Assets\Scripts\Asteroid\AsteroidScore.cs" />
      <Compile Include="Assets\Scripts\Asteroid\AsteroidStone.cs" />
      <Compile Include="Assets\Scripts\Asteroid\Bullet.cs" />
+     <Compile Include="Assets\Scripts\Asteroid\DestroyGameObject.cs" />
      <Compile Include="Assets\Scripts\Asteroid\RandomBG.cs" />
      <Compile Include="Assets\Scripts\Asteroid\SelfDesctruct.cs" />
      <Compile Include="Assets\Scripts\Asteroid\Stats.cs" />

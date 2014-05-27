@@ -30,6 +30,7 @@ public class AsteroidGameManager : MonoBehaviour
 	private AsteroidPlayerShip player;
 
 	public int scoreToLevelAdjust;
+	public int testingScore;
 	public int spawnIncreaseByLevel;
 	public int playerLevel;
 
@@ -63,6 +64,18 @@ public class AsteroidGameManager : MonoBehaviour
 			Startinfo ();
 		}
 
+		if (asteroidScore.score >= scoreToLevelAdjust) 
+		{
+			playerLevel = playerLevel + 1;
+			spawnFrequency = spawnFrequency - spawnFreqIncrease;
+			spawnNumber = spawnNumber - spawnNmbrIncrease;
+			maxLargeAsteroids = maxLargeAsteroids + maxLargeAsteroids/2;
+			scoreToLevelAdjust = scoreToLevelAdjust + scoreToLevelAdjust;
+			Debug.Log ("ScoreToLevelAdjust increased to " + scoreToLevelAdjust);
+			return;
+
+		}
+
 		InvokeRepeating ("SpawnAsteroid", spawnFrequency, spawnNumber);	 
 
 		if (player.hitPoints == 1) 
@@ -73,17 +86,6 @@ public class AsteroidGameManager : MonoBehaviour
 
 		InvokeRepeating ("SpawnArtifact", 60, 30);
 
-		if (asteroidScore.score == scoreToLevelAdjust) 
-		{
-			spawnFrequency = spawnFrequency - spawnFreqIncrease;
-			spawnNumber = spawnNumber - spawnNmbrIncrease;
-			maxLargeAsteroids = maxLargeAsteroids + maxLargeAsteroids/2;
-			Debug.Log ("New Spawnfrequency " + spawnFrequency + " and new Spawnfrequency " + spawnNumber + " and new MaxLargeAsteroids" + maxLargeAsteroids);
-			scoreToLevelAdjust = scoreToLevelAdjust + scoreToLevelAdjust;
-			playerLevel = playerLevel + 1;
-			Debug.Log ("ScoreToLevelAdjust increased to " + scoreToLevelAdjust);
-			Debug.Log ("Player level " + playerLevel);
-		}
 	}
 
 	void SpawnAsteroid()
@@ -91,7 +93,7 @@ public class AsteroidGameManager : MonoBehaviour
 		 if (testCounter >= maxLargeAsteroids) 
 		{
 			return;
-			Debug.Log("testCounter is bigger than or same as maxLargeAsteroids");
+			// Debug.Log("testCounter is bigger than or same as maxLargeAsteroids");
 		}
 
 

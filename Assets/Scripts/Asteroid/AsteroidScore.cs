@@ -39,7 +39,6 @@ public class AsteroidScore : MonoBehaviour
 		// score += speedMultipliedScore; 
 		 */
 		score += sc;
-
 		scoreTextMesh.text = "Score: " + score;
 	
 	}

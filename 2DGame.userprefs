@@ -1,15 +1,13 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Asteroid/AsteroidStone.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Asteroid/AsteroidScore.cs">
     <Files>
-      <File FileName="Assets/Scripts/Asteroid/AsteroidGameManager.cs" Line="84" Column="71" />
-      <File FileName="Assets/Scripts/Asteroid/Stats.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Asteroid/AsteroidStone.cs" Line="41" Column="96" />
+      <File FileName="Assets/Scripts/Asteroid/Bullet.cs" Line="8" Column="1" />
+      <File FileName="Assets/Scripts/Asteroid/DestroyGameObject.cs" Line="4" Column="31" />
+      <File FileName="Assets/Scripts/Asteroid/AsteroidGameManager.cs" Line="77" Column="4" />
       <File FileName="Assets/Scripts/Asteroid/AsteroidPlayerShip.cs" Line="1" Column="1" />
-      <File FileName="Assets/Plugins/iTween.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Asteroid/AsteroidResetPosition.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Asteroid/AsteroidGameManager.cs" Line="245" Column="1" />
-      <File FileName="Assets/Scripts/Asteroid/AsteroidScore.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Asteroid/AsteroidScore.cs" Line="41" Column="14" />
+      <File FileName="Assets/Scripts/Asteroid/Stats.cs" Line="31" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

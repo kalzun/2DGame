@@ -25,7 +25,6 @@ public class ArtifactsOptions : MonoBehaviour
 	// Use this for initialization
 	void Start () 
 	{
-		Debug.Log ("Artifacts.cs loaded");
 		gm = GameObject.FindGameObjectWithTag ("AsteroidGameManager").GetComponent<AsteroidGameManager> ();
 		player = GameObject.FindGameObjectWithTag ("Player").GetComponent<AsteroidPlayerShip> ();
 		asteroidScore = GameObject.FindGameObjectWithTag ("AsteroidScore").GetComponent<AsteroidScore> ();
