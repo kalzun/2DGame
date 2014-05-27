@@ -5,4 +5,4 @@
 
 For å kjøre det, er du nødt til å ha Unity Web Player: https://unity3d.com/webplayer
 
-All koden ligger inne på Asset/Scripts/Asteroid.
+All koden ligger inne på Assets/Scripts/Asteroid.
